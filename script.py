@@ -11,4 +11,6 @@ Run analysis
 
 Make table
 
-Make small figure
+Make header bold
+
+Make small figure, red line
